@@ -1,7 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
-**2bf/2bf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chimingw/chimingw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### chiming wang
+
+Blockchain validator and digital assets (NFT) owner.
+
+“It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.”
+
+
+- chicane#5711
+- instagram.com/50chw
+- twitter.com/0xchiming
+- https://www.youtube.com/channel/UCBPmuTaroVqViHzVXODGtiQ
+- opensea.io/a61
+- en.wikipedia.org/wiki/User:Vysulo
