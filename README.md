@@ -22,8 +22,8 @@ Blockchain validator and digital assets (NFT) owner.
 
 
 - chicane#5711
-- instagram.com/50chw
-- twitter.com/chmw1
-- youtube.com/channel/UCBPmuTaroVqViHzVXODGtiQ
-- opensea.io/a61
-- en.wikipedia.org/wiki/User:Vysulo
+- https://instagram.com/50chw
+- https://twitter.com/chmw1
+- https://youtube.com/channel/UCBPmuTaroVqViHzVXODGtiQ
+- https://opensea.io/a61
+- https://en.wikipedia.org/wiki/User:Vysulo
