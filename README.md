@@ -18,11 +18,15 @@ Here are some ideas to get you started:
 ### chiming wang
 -->
 
+<!--
 Student, photographer, crypto miner.
 CompTIA A+ Certified
 
 “It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.”
+-->
 
 - https://instagram.com/chw_photo
+<!--
 - https://chiming.eth.link
 - http://guhoo.com/
+-->
