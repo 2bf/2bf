@@ -29,6 +29,7 @@ CompTIA A+ Certified
 - https://chimingwang.weebly.com/
 - https://instagram.com/chw_photo
 - https://en.wikipedia.org/wiki/User:Vysulo
+- https://www.credly.com/users/cw/badges
 <!--
 - https://chiming.eth.link
 - http://guhoo.com/
