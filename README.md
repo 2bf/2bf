@@ -24,6 +24,7 @@ CompTIA A+ Certified
 
 “It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.”
 -->
+3 character username is funny
 - https://www.linkedin.com/in/chiming-wang/
 - http://guhoo.com
 - https://chimingwang.weebly.com/
