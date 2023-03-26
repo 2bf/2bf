@@ -28,6 +28,7 @@ CompTIA A+ Certified
 - http://guhoo.com
 - https://chimingwang.weebly.com/
 - https://instagram.com/chw_photo
+- https://en.wikipedia.org/wiki/User:Vysulo
 <!--
 - https://chiming.eth.link
 - http://guhoo.com/
