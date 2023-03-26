@@ -24,8 +24,9 @@ CompTIA A+ Certified
 
 “It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.”
 -->
-
+- https://www.linkedin.com/in/chiming-wang/
 - https://instagram.com/chw_photo
+- https://chimingwang.weebly.com/
 <!--
 - https://chiming.eth.link
 - http://guhoo.com/
