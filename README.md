@@ -26,7 +26,6 @@ CompTIA A+ Certified
 -->
 3 character username is funny
 <!-- -->
-learning aws cloud right now...
 
 - https://www.linkedin.com/in/chiming-wang/
 - http://guhoo.com
