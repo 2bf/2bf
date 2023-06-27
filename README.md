@@ -28,6 +28,3 @@ CompTIA A+ Certified
 <!-- -->
 
 - http://guhoo.com/ai.html
-- https://www.linkedin.com/in/chiming-wang/
-- https://chimingwang.weebly.com/
-- https://instagram.com/50chw
