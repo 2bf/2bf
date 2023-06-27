@@ -27,7 +27,7 @@ CompTIA A+ Certified
 3 character username is funny
 <!-- -->
 
--http://guhoo.com/ai.html
+- http://guhoo.com/ai.html
 - https://www.linkedin.com/in/chiming-wang/
 - https://chimingwang.weebly.com/
 - https://instagram.com/50chw
