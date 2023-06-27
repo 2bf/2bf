@@ -27,13 +27,7 @@ CompTIA A+ Certified
 3 character username is funny
 <!-- -->
 
+-http://guhoo.com/ai.html
 - https://www.linkedin.com/in/chiming-wang/
-- http://guhoo.com
 - https://chimingwang.weebly.com/
-- https://instagram.com/chw_photo
-- https://en.wikipedia.org/wiki/User:Vysulo
-- https://www.credly.com/users/cw/badges
-<!--
-- https://chiming.eth.link
-- http://guhoo.com/
--->
+- https://instagram.com/50chw
