@@ -18,13 +18,10 @@ Here are some ideas to get you started:
 ### chiming wang
 -->
 
-<!--
-Student, photographer, crypto miner.
-CompTIA A+ Certified
 
-“It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.”
--->
-3 character username is funny
-<!-- -->
+cofounder @ guhoo technologies
+vice president @ bright future teens new york
+comptia a+ certified.
+AWS certified cloud practitioner.
 
-- http://guhoo.com/ai.html
+- https://ai.guhoo.com
