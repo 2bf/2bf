@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 -->
 
 
-cofounder @ guhoo technologies
-vice president @ bright future teens new york
-comptia a+ certified.
-AWS certified cloud practitioner.
-
-- https://ai.guhoo.com
+- cofounder @ guhoo technologies
+- vice president @ bright future teens new york
+- comptia a+ certified.
+- AWS certified cloud practitioner.
+  
+https://ai.guhoo.com
