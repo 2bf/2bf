@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### chiming wang
 -->
 
-
+high school student
 - cofounder @ guhoo technologies
 - vice president @ bright future teens new york
 - comptia a+ certified.
