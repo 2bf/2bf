@@ -24,4 +24,4 @@ high school student
 - comptia a+ certified.
 - AWS certified cloud practitioner.
   
-https://ai.guhoo.com
+https://chiming.guhoo.com
