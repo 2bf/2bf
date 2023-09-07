@@ -25,5 +25,5 @@ high school student
 - AWS certified cloud practitioner.
 
 https://www.chimingwang.xyz
-
+ 
 https://ai.guhoo.com
