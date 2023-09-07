@@ -23,5 +23,6 @@ high school student
 - vice president @ bright future teens new york
 - comptia a+ certified.
 - AWS certified cloud practitioner.
-  
+
+https://www.chimingwang.xyz
 https://ai.guhoo.com
