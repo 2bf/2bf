@@ -21,7 +21,5 @@ Here are some ideas to get you started:
 high school student
 - cofounder @ [guhoo technologies](https://ai.guhoo.com)
 - vice president @ [bright future teens new york](https://www.brightfutureteen.com/bft-new-york)
-- comptia a+ certified.
-- AWS certified cloud practitioner.
 
 https://www.chimingwang.xyz
