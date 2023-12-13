@@ -22,4 +22,8 @@ high school student
 - cofounder @ [guhoo technologies](https://ai.guhoo.com)
 - vice president @ [bright future teens new york](https://www.brightfutureteen.com/bft-new-york)
 
-https://www.chimingwang.xyz
+  
+- 2023 congressional app challenge submission: [ABE AI](https://abeai.net)
+- agriculture technology: [automated aquaponics](https://aaponics.com)
+
+https://www.chimingwang.net
