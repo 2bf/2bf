@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 
 high school student
+i'm currently interested in LLMs and applied AI!
 - cofounder @ [guhoo technologies](https://ai.guhoo.com)
 - vice president @ [bright future teens new york](https://www.brightfutureteen.com/bft-new-york)
 
