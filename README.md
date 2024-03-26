@@ -26,6 +26,6 @@ currently interested in open source LLMs and applied AI
 
   
 - 2023 congressional app challenge submission: [ABE AI](https://abeai.net)
-- agriculture technology: [automated aquaponics](https://aaponics.com)
+<!-- - agriculture technology: [automated aquaponics](https://aaponics.com) -->
 
 https://www.chimingwang.net
