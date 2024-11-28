@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 -->
 
 high school student
+currently working on more hardware stuff
 
+<!--
 currently interested in open source LLMs and applied AI
 - cofounder @ [guhoo technologies](https://ai.guhoo.com)
 - vice president @ [bright future teens new york](https://www.brightfutureteen.com/bft-new-york)
 
   
 - 2023 congressional app challenge submission: [ABE AI](https://abeai.net)
-<!-- - agriculture technology: [automated aquaponics](https://aaponics.com) -->
+-->
 
 more information: [https://wchiming.com](https://wchiming.com)
