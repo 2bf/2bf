@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 
 high school student
+
 currently working on more hardware stuff
 
 <!--
