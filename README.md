@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+<!-
 ### chiming wang
 -->
 
 high school student
 
-currently working on more hardware stuff
+currently working on more hardware stuff (drones) and also [rebels2638/ScoutingApp2025](https://github.com/rebels2638/ScoutingApp2025)
 
 <!--
 currently interested in open source LLMs and applied AI
