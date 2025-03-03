@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 high school student
 
-currently working on more hardware stuff (drones) and [rebels2638/ScoutingApp2025](https://github.com/rebels2638/ScoutingApp2025)
+currently working on open source hardware & software for autonomous drones, and also [rebels2638/ScoutingApp2025](https://github.com/rebels2638/ScoutingApp2025).
 
 <!--
 currently interested in open source LLMs and applied AI
