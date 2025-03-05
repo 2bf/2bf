@@ -19,7 +19,7 @@ high school student
 
 currently working on software-defined hardware for autonomous drones and [internal tools for my school's robotics team](https://github.com/rebels2638/ScoutingApp2025).
 
-also interested in security, privacy, cryptography & encryption
+also interested in blockchain, security, privacy, cryptography, encryption.
 
 <!--
 currently interested in open source LLMs and applied AI
