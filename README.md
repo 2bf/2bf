@@ -1,4 +1,8 @@
-currently working on software-defined hardware for autonomous drones 
+building tech @ [build.ai](https://build.ai)
+
+
+
+
 
 also interested in blockchain, security, privacy, cryptography, encryption.
 
